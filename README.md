@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Sahand 
-- 👀 I’m interested in Machine Learning specially NLP projects. Some project that I have been working on is extracting knowladge from text and create a knowladge graph from it   
+- 👀 I’m interested in Machine Learning specially NLP projects. Some project that I have been working on is extracting knowladge from plain text and create a knowladge graph from it   
 - 📫 How to reach me: Send me an Email at parniani@ualberta.ca
 
 <!---
